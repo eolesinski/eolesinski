@@ -6,6 +6,7 @@ My name is Ethan and I am a recent graduate of the [University of Nevada, Reno](
 During my time at UNR I was a research assistant in the [Department of Economcis](https://www.unr.edu/business/departments-and-disciplines/economics) and.
 
 - 🔭 &nbsp;&nbsp;I’m currently working on writing an open-sourced Python package
+- 🤔 &nbsp;&nbsp;I’m interested in the interface between financial analysis and machine learning
 - 📫 &nbsp;&nbsp;How to reach me: ...
 - 😄 &nbsp;&nbsp;Pronouns: He/him
 - ⚡ &nbsp;&nbsp;Fun fact: I enjoy reading Greek Classics in my free time!
