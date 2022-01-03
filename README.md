@@ -3,7 +3,7 @@
 
 My name is Ethan, and I am a recent graduate of the [University of Nevada, Reno](https://www.unr.edu), where I recieved my Bachelor's of Science in Economics and minor in Mathematics in 2020. In 2019, I spent two semesters studying Financial Economics and Machine Learning at [Columbia University](https://www.columbia.edu) as an undergraduate Visiting Student.
 
-During my time at UNR, I was a research assistant in the [Department of Economics](https://www.unr.edu/business/departments-and-disciplines/economics) and.
+During my time at UNR, I was a research assistant in the [Department of Economics](https://www.unr.edu/business/departments-and-disciplines/economics).
 
 - 🔭 &nbsp;&nbsp;I’m currently working on writing an open-sourced Python package.
 - 🤔 &nbsp;&nbsp;I’m interested in the interface between financial analysis and machine learning.
