@@ -25,3 +25,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<p align="left">
+<h3 align="left">Stay in touch:</h3>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="EthanOlesinski" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eolesinski/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ethan-olesinski" height="30" width="40" /></a>
+</p>
