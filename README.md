@@ -14,7 +14,9 @@ During my time at UNR, I was a research assistant in the [Department of Economic
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left"> <a href="https://www.python.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> </a>
+<p align="left"> <a href="https://www.python.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> </a> <a href="https://www.java.com/en/"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" /> </a> <a href="https://git-scm.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" /> </a>
+  
+  </p>
 
 <!--
 **eolesinski/eolesinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
