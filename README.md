@@ -1,5 +1,6 @@
 ![](https://github.com/eolesinski/eolesinski/blob/main/header.png)
-### Hi there 👋
+
+<h1 align="center">Hi there 👋, &nbsp;I'm Ethan</h1>
 
 My name is Ethan, and I am a recent graduate of the [University of Nevada, Reno](https://www.unr.edu), where I recieved my Bachelor's of Science in Economics and minor in Mathematics in 2020. In 2019, I spent two semesters studying Financial Economics and Machine Learning at [Columbia University](https://www.columbia.edu) as an undergraduate Visiting Student.
 
@@ -10,6 +11,8 @@ During my time at UNR, I was a research assistant in the [Department of Economic
 - 📫 &nbsp;&nbsp;How to reach me: you can use the email link in the sidebar.
 - 😄 &nbsp;&nbsp;Pronouns: He/him
 - ⚡ &nbsp;&nbsp;Fun fact: I enjoy reading Greek Classics in my free time!
+
+<h3 align="left">Languages and Tools:</h3>
 
 <!--
 **eolesinski/eolesinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
