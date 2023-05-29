@@ -12,9 +12,9 @@ During my time at UNR, I was a research assistant in the [Department of Economic
 - 😄 &nbsp;&nbsp;Pronouns: He/him
 - ⚡ &nbsp;&nbsp;Fun fact: I enjoy reading Greek Classics in my free time!
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages, Tools, and Libraries:</h3>
 
-<p align="left"> <a href="https://www.python.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> </a> <a href="https://www.java.com/en/"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" /> </a> <a href="https://git-scm.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" /> </a>
+<p align="left"> <a href="https://www.python.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40" /> </a> <a href="https://www.java.com/en/"> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="40" height="40" /> </a> <a href="https://git-scm.com"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40" /> </a> <a href="https://www.vim.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="40" height="40" /> </a> <a href="https://pandas.pydata.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40" /> </a> <a href="https://numpy.org"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40" /> </a>
   
   </p>
 
