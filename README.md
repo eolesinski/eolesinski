@@ -4,7 +4,7 @@
 
 My name is Ethan, and I am currently a MS CS student focusing on software systems and fintech applications. Previously, I received my Bachelor's of Science in Economics and Minor in Mathematics from the [University of Nevada, Reno](https://www.unr.edu). I also spent a year as an Undergraduate Visiting Student at [Columbia University](https://www.columbia.edu) studying financial economics and computer science.
 
-During my time at UNR, I was a research assistant in the [Department of Economics](https://www.unr.edu/business/departments-and-disciplines/economics). Some fast facts about what I am currently up to:
+Some quick facts about what I am currently up to:
 
 - 🔭 &nbsp;&nbsp;I’m currently working on writing an open-source Python package.
 - 🤔 &nbsp;&nbsp;I’m interested in the nexus between economics and computer science
