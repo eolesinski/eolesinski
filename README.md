@@ -8,7 +8,6 @@ I am also the author and maintainer of [PoliSciPy](https://github.com/poliscipy/
 
 Some quick facts about what I am currently up to:
 
-- 🔭 &nbsp;&nbsp;I’m currently working on writing an open-source Python package.
 - 🤔 &nbsp;&nbsp;I’m interested in the nexus between economics and computer science
 - 🎧 &nbsp;&nbsp;I'm currently listening to: The *Signals & Threads* podcast, by Jane Street
 - 🎬 &nbsp;&nbsp;I most recently watched: *Jackie Robinson*, by Ken Burns
