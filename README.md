@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi there 👋, &nbsp;I'm Ethan</h1>
 
-My name is Ethan, and I recently completed my MS in Computer Science, focusing on software systems and fintech applications. Previously, I received my Bachelor's of Science in Economics and Minor in Mathematics from the [University of Nevada, Reno](https://www.unr.edu). I also spent a year as an Undergraduate Visiting Student at [Columbia University](https://www.columbia.edu) studying financial economics and computer science.
+My name is Ethan, and I recently completed my MS in Computer Science, focusing on software systems and fintech applications. Prior to graduate school, I received a Bachelor of Science in Economics with a Minor in Mathematics from the [University of Nevada, Reno](https://www.unr.edu). I also spent a year as an Undergraduate Visiting Student at [Columbia University](https://www.columbia.edu) studying financial economics and computer science.
 
 I am also the author and maintainer of [PoliSciPy](https://github.com/poliscipy/poliscipy), an open-source Python package for political science data analysis.
 
 Some quick facts about what I am currently up to:
 
-- 🤔 &nbsp;&nbsp;I’m interested in the nexus between economics and computer science
+- 🤔 &nbsp;&nbsp;I’m interested in the nexus between economics, computer science, and public policy
 - 🎧 &nbsp;&nbsp;I'm currently listening to: The *Signals & Threads* podcast, by Jane Street
 - 🎬 &nbsp;&nbsp;I most recently watched: *Jackie Robinson*, by Ken Burns
 - 📚 &nbsp;&nbsp;I'm currently reading: *The Future of Money*, by Eswar Prasad
